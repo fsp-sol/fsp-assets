@@ -1,0 +1,6 @@
+{
+  "name": "Full Stack",
+  "symbol": "fsp",
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://raw.githubusercontent.com/fsp-sol/fsp-assets/main/token_icon.gif"
+}
